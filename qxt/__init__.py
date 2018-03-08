@@ -1,5 +1,11 @@
-from PyQt5 import QtWidgets, QtCore
+# -*- coding: utf-8 -*-
+"""PyQxt
+Qt global shorcut
+"""
 
+__version__ = '0.0.1'
+
+from PyQt5 import QtWidgets, QtCore
 import keyboard
 
 
